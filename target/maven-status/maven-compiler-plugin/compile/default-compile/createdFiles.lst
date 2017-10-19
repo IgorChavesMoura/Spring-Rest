@@ -1,0 +1,6 @@
+br/com/igor/listavip/model/Guest.class
+br/com/igor/listavip/repository/GuestRepository.class
+br/com/igor/emailsender/EmailService.class
+br/com/igor/listavip/Config.class
+br/com/igor/listavip/GuestController.class
+br/com/igor/listavip/service/GuestService.class
